@@ -1,0 +1,101 @@
+customer_id,name,age,city,country,subscription_date
+1,John Rivers,31,New Angela,Sao Tome and Principe,2024-09-17
+2,Richard Mcclure,21,Jamieside,Svalbard & Jan Mayen Islands,2021-07-19
+3,Eric Smith,34,Port Mariastad,Nicaragua,2025-06-08
+4,Megan Price,47,South Samantha,Turkey,2021-12-09
+5,Pedro Guzman,20,South Laurabury,Mauritius,2023-03-11
+6,Thomas Morgan,61,Hannahland,Saint Martin,2022-05-08
+7,Derek Lewis,36,East Jennifer,Norway,2021-01-29
+8,James Fuentes,26,New Larry,Iceland,2023-01-30
+9,Karen Pace,48,Daniellefort,Netherlands Antilles,2020-11-24
+10,Austin Beck,69,Valerietown,Belarus,2022-08-02
+11,Erin Lucero,21,Smithland,Peru,2023-04-20
+12,Jade Harris MD,40,Warrenton,Puerto Rico,2024-11-19
+13,Andrea Wood,58,Michaelborough,Timor-Leste,2024-10-28
+14,Robert Turner,28,New Stevenborough,Cameroon,2020-12-11
+15,Theresa Carter,63,Alexmouth,Korea,2025-07-01
+16,Matthew Gutierrez,26,New David,Netherlands,2024-08-06
+17,Jennifer Sanders,47,Patrickmouth,Gibraltar,2021-06-03
+18,Bruce Patel,46,Hernandezville,Seychelles,2021-02-18
+19,Stephanie Salazar,58,New Susan,French Guiana,2020-10-13
+20,Ashley Murphy,67,Waltonhaven,Singapore,2021-11-26
+21,Carlos Franklin,63,New Erikstad,Taiwan,2024-07-28
+22,Denise Anderson,64,Kevinfurt,Bosnia and Herzegovina,2023-11-12
+23,Paul Powers,25,Michellebury,Norway,2025-07-25
+24,Robert Christensen,50,East Emilyport,Cote d'Ivoire,2025-01-10
+25,Lisa Patel,61,North Christinaland,Haiti,2025-06-23
+26,Kimberly Garcia,62,South Kurtfurt,Gibraltar,2023-06-04
+27,Connie Martin,30,Adamsburgh,Moldova,2022-11-29
+28,Ryan Trujillo,61,Richardside,Cuba,2021-04-13
+29,Travis Banks,53,New Bryantown,Ukraine,2023-10-28
+30,Jimmy Rodriguez,61,East Steven,Jamaica,2023-05-22
+31,John Vega,64,South Christinachester,Lao People's Democratic Republic,2024-03-15
+32,Christine Blankenship,47,Port Joshua,Niger,2023-07-20
+33,Dr. David Bean,31,Port Robert,Togo,2021-07-16
+34,Gabrielle Smith,70,Lake Lindsay,Burkina Faso,2022-02-10
+35,Ryan Mccarthy,67,New Cheyenne,Timor-Leste,2025-01-14
+36,Donna Blair,37,Smithland,Costa Rica,2024-08-27
+37,Keith Fuller,75,West Lisa,Saint Lucia,2022-06-19
+38,Jerry Johnson,22,Lake Ashleyton,Iraq,2021-01-06
+39,Chase Howell,47,Lisaberg,American Samoa,2021-11-17
+40,Leroy Santos,18,South Thomasmouth,United States Minor Outlying Islands,2023-09-19
+41,Lucas Small,41,Lindamouth,Fiji,2025-08-24
+42,Gregory Jenkins,67,South Williamchester,Cuba,2025-02-14
+43,Yvette Coleman,52,Lisaview,Ecuador,2024-01-16
+44,Christy Stanley,64,Bennettborough,Cape Verde,2025-07-03
+45,Judith Torres,49,Farrellmouth,Bahrain,2023-06-01
+46,Carolyn Espinoza,31,Port Erin,United Kingdom,2025-04-17
+47,Tiffany Arnold,21,South Samuelport,Marshall Islands,2021-05-10
+48,Meredith Johnson,21,Foleychester,Croatia,2025-02-09
+49,Brittney Lee,30,Tiffanyland,Sao Tome and Principe,2024-07-19
+50,Juan Adams,56,North Audreyton,Georgia,2025-06-25
+51,Teresa Hall,47,Patrickmouth,Nauru,2022-12-23
+52,Susan Campbell,72,New Lisa,Ecuador,2021-07-16
+53,Caroline Stanley,65,Lake Taylorfort,French Guiana,2022-09-27
+54,Joshua Nolan,51,Edwinmouth,Niue,2020-10-23
+55,Danny Mcpherson,32,West Tammyhaven,American Samoa,2021-10-16
+56,Kathleen Lewis,28,Mannington,Uzbekistan,2023-10-18
+57,Vanessa Perez,24,East Vincent,Botswana,2022-07-31
+58,Michael Logan,74,Mcbridebury,Antigua and Barbuda,2024-11-17
+59,Joel Brown,24,West Jefferyborough,Moldova,2021-04-10
+60,Peter Shaw,58,Lindseyport,Turkey,2022-07-06
+61,Chelsey Hampton,26,North Nancy,Saudi Arabia,2020-11-26
+62,Cathy Anderson,22,South Oliviaside,Solomon Islands,2022-11-11
+63,Tara Johns,58,Amandaland,Senegal,2021-01-23
+64,Laurie Smith,27,Johnsonhaven,Georgia,2021-04-15
+65,Nathan Meyer,44,Darrellstad,Macedonia,2021-09-21
+66,Nicole Woods,29,Lake Michael,Korea,2023-09-10
+67,Terri Gray,41,South Alexander,Denmark,2022-06-11
+68,Jill Diaz,41,Janetmouth,Mauritius,2021-02-11
+69,Patrick Garcia,36,South Chelsea,Palestinian Territory,2025-06-13
+70,Lisa Parks,61,New Michaelport,French Southern Territories,2022-05-31
+71,Robert Johnson DDS,27,New Megan,Chile,2023-11-04
+72,Denise Miller,20,Myerston,Lithuania,2024-05-20
+73,Jillian Smith,55,East Scott,Liechtenstein,2022-07-24
+74,Ashley Savage,34,Raymondmouth,Burkina Faso,2025-07-25
+75,Victoria Alvarez,65,West Joshuastad,Belarus,2024-08-16
+76,Gerald Smith,18,Lake Anthonychester,Timor-Leste,2021-02-24
+77,Robert Lamb,33,Jamesbury,Jordan,2022-11-16
+78,Shane Floyd,44,West Taraburgh,Iraq,2021-04-15
+79,Angela Cook,46,Castillomouth,Colombia,2025-04-27
+80,Amy Wilson,32,West Christinaland,Ecuador,2023-02-28
+81,Derrick Anthony,61,East Ashleyberg,Turkey,2021-01-20
+82,Victoria Miller,18,Port Nicholas,Turks and Caicos Islands,2021-10-28
+83,Timothy Dunn,67,North Christy,Niue,2021-05-21
+84,Dr. Craig Wilson,55,Amyview,Latvia,2021-11-21
+85,Anne Williams,66,Farleystad,Israel,2021-08-21
+86,Mary Hoover,74,Samanthaborough,Poland,2024-04-08
+87,Michelle Walker,21,South Alanborough,Fiji,2020-11-24
+88,Kathryn Cooper,44,Karaville,Falkland Islands (Malvinas),2024-07-29
+89,Desiree Hutchinson,48,New Benjaminhaven,Tuvalu,2023-02-08
+90,Jennifer Villa,30,Port Rebecca,Micronesia,2025-03-17
+91,Timothy Smith,50,Morganmouth,Niue,2021-03-01
+92,David Morgan,23,Donaldchester,Ethiopia,2021-07-17
+93,Vincent Patterson,74,Lake Sarahberg,Macao,2025-01-20
+94,Sarah Perry,72,South John,Jamaica,2023-11-25
+95,Michelle Young,19,Michaelhaven,Romania,2025-07-23
+96,Carol Lee,20,Stuartville,Eritrea,2021-01-19
+97,Jesus Powers,38,South Stevenstad,Christmas Island,2023-09-23
+98,Ryan Martin,58,East Rubenfurt,Panama,2021-07-09
+99,Christopher Jackson,70,North David,Israel,2021-12-27
+100,Joshua Webb,41,Westmouth,Nepal,2021-11-10

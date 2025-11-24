@@ -1,0 +1,101 @@
+customer_id,name,age,city,country,subscription_date,year,month,day,quarter,age_group
+1,John Rivers,31,New Angela,Sao Tome and Principe,2024-09-17,2024,9,17,3,Young Adult
+2,Richard Mcclure,21,Jamieside,Svalbard & Jan Mayen Islands,2021-07-19,2021,7,19,3,Young Adult
+3,Eric Smith,34,Port Mariastad,Nicaragua,2025-06-08,2025,6,8,2,Young Adult
+4,Megan Price,47,South Samantha,Turkey,2021-12-09,2021,12,9,4,Middle Age
+5,Pedro Guzman,20,South Laurabury,Mauritius,2023-03-11,2023,3,11,1,Young Adult
+6,Thomas Morgan,61,Hannahland,Saint Martin,2022-05-08,2022,5,8,2,Senior
+7,Derek Lewis,36,East Jennifer,Norway,2021-01-29,2021,1,29,1,Adult
+8,James Fuentes,26,New Larry,Iceland,2023-01-30,2023,1,30,1,Young Adult
+9,Karen Pace,48,Daniellefort,Netherlands Antilles,2020-11-24,2020,11,24,4,Middle Age
+10,Austin Beck,69,Valerietown,Belarus,2022-08-02,2022,8,2,3,Senior
+11,Erin Lucero,21,Smithland,Peru,2023-04-20,2023,4,20,2,Young Adult
+12,Jade Harris MD,40,Warrenton,Puerto Rico,2024-11-19,2024,11,19,4,Adult
+13,Andrea Wood,58,Michaelborough,Timor-Leste,2024-10-28,2024,10,28,4,Middle Age
+14,Robert Turner,28,New Stevenborough,Cameroon,2020-12-11,2020,12,11,4,Young Adult
+15,Theresa Carter,63,Alexmouth,Korea,2025-07-01,2025,7,1,3,Senior
+16,Matthew Gutierrez,26,New David,Netherlands,2024-08-06,2024,8,6,3,Young Adult
+17,Jennifer Sanders,47,Patrickmouth,Gibraltar,2021-06-03,2021,6,3,2,Middle Age
+18,Bruce Patel,46,Hernandezville,Seychelles,2021-02-18,2021,2,18,1,Middle Age
+19,Stephanie Salazar,58,New Susan,French Guiana,2020-10-13,2020,10,13,4,Middle Age
+20,Ashley Murphy,67,Waltonhaven,Singapore,2021-11-26,2021,11,26,4,Senior
+21,Carlos Franklin,63,New Erikstad,Taiwan,2024-07-28,2024,7,28,3,Senior
+22,Denise Anderson,64,Kevinfurt,Bosnia and Herzegovina,2023-11-12,2023,11,12,4,Senior
+23,Paul Powers,25,Michellebury,Norway,2025-07-25,2025,7,25,3,Young Adult
+24,Robert Christensen,50,East Emilyport,Cote d'Ivoire,2025-01-10,2025,1,10,1,Middle Age
+25,Lisa Patel,61,North Christinaland,Haiti,2025-06-23,2025,6,23,2,Senior
+26,Kimberly Garcia,62,South Kurtfurt,Gibraltar,2023-06-04,2023,6,4,2,Senior
+27,Connie Martin,30,Adamsburgh,Moldova,2022-11-29,2022,11,29,4,Young Adult
+28,Ryan Trujillo,61,Richardside,Cuba,2021-04-13,2021,4,13,2,Senior
+29,Travis Banks,53,New Bryantown,Ukraine,2023-10-28,2023,10,28,4,Middle Age
+30,Jimmy Rodriguez,61,East Steven,Jamaica,2023-05-22,2023,5,22,2,Senior
+31,John Vega,64,South Christinachester,Lao People's Democratic Republic,2024-03-15,2024,3,15,1,Senior
+32,Christine Blankenship,47,Port Joshua,Niger,2023-07-20,2023,7,20,3,Middle Age
+33,Dr. David Bean,31,Port Robert,Togo,2021-07-16,2021,7,16,3,Young Adult
+34,Gabrielle Smith,70,Lake Lindsay,Burkina Faso,2022-02-10,2022,2,10,1,Senior
+35,Ryan Mccarthy,67,New Cheyenne,Timor-Leste,2025-01-14,2025,1,14,1,Senior
+36,Donna Blair,37,Smithland,Costa Rica,2024-08-27,2024,8,27,3,Adult
+37,Keith Fuller,75,West Lisa,Saint Lucia,2022-06-19,2022,6,19,2,Senior
+38,Jerry Johnson,22,Lake Ashleyton,Iraq,2021-01-06,2021,1,6,1,Young Adult
+39,Chase Howell,47,Lisaberg,American Samoa,2021-11-17,2021,11,17,4,Middle Age
+40,Leroy Santos,18,South Thomasmouth,United States Minor Outlying Islands,2023-09-19,2023,9,19,3,Teen
+41,Lucas Small,41,Lindamouth,Fiji,2025-08-24,2025,8,24,3,Adult
+42,Gregory Jenkins,67,South Williamchester,Cuba,2025-02-14,2025,2,14,1,Senior
+43,Yvette Coleman,52,Lisaview,Ecuador,2024-01-16,2024,1,16,1,Middle Age
+44,Christy Stanley,64,Bennettborough,Cape Verde,2025-07-03,2025,7,3,3,Senior
+45,Judith Torres,49,Farrellmouth,Bahrain,2023-06-01,2023,6,1,2,Middle Age
+46,Carolyn Espinoza,31,Port Erin,United Kingdom,2025-04-17,2025,4,17,2,Young Adult
+47,Tiffany Arnold,21,South Samuelport,Marshall Islands,2021-05-10,2021,5,10,2,Young Adult
+48,Meredith Johnson,21,Foleychester,Croatia,2025-02-09,2025,2,9,1,Young Adult
+49,Brittney Lee,30,Tiffanyland,Sao Tome and Principe,2024-07-19,2024,7,19,3,Young Adult
+50,Juan Adams,56,North Audreyton,Georgia,2025-06-25,2025,6,25,2,Middle Age
+51,Teresa Hall,47,Patrickmouth,Nauru,2022-12-23,2022,12,23,4,Middle Age
+52,Susan Campbell,72,New Lisa,Ecuador,2021-07-16,2021,7,16,3,Senior
+53,Caroline Stanley,65,Lake Taylorfort,French Guiana,2022-09-27,2022,9,27,3,Senior
+54,Joshua Nolan,51,Edwinmouth,Niue,2020-10-23,2020,10,23,4,Middle Age
+55,Danny Mcpherson,32,West Tammyhaven,American Samoa,2021-10-16,2021,10,16,4,Young Adult
+56,Kathleen Lewis,28,Mannington,Uzbekistan,2023-10-18,2023,10,18,4,Young Adult
+57,Vanessa Perez,24,East Vincent,Botswana,2022-07-31,2022,7,31,3,Young Adult
+58,Michael Logan,74,Mcbridebury,Antigua and Barbuda,2024-11-17,2024,11,17,4,Senior
+59,Joel Brown,24,West Jefferyborough,Moldova,2021-04-10,2021,4,10,2,Young Adult
+60,Peter Shaw,58,Lindseyport,Turkey,2022-07-06,2022,7,6,3,Middle Age
+61,Chelsey Hampton,26,North Nancy,Saudi Arabia,2020-11-26,2020,11,26,4,Young Adult
+62,Cathy Anderson,22,South Oliviaside,Solomon Islands,2022-11-11,2022,11,11,4,Young Adult
+63,Tara Johns,58,Amandaland,Senegal,2021-01-23,2021,1,23,1,Middle Age
+64,Laurie Smith,27,Johnsonhaven,Georgia,2021-04-15,2021,4,15,2,Young Adult
+65,Nathan Meyer,44,Darrellstad,Macedonia,2021-09-21,2021,9,21,3,Adult
+66,Nicole Woods,29,Lake Michael,Korea,2023-09-10,2023,9,10,3,Young Adult
+67,Terri Gray,41,South Alexander,Denmark,2022-06-11,2022,6,11,2,Adult
+68,Jill Diaz,41,Janetmouth,Mauritius,2021-02-11,2021,2,11,1,Adult
+69,Patrick Garcia,36,South Chelsea,Palestinian Territory,2025-06-13,2025,6,13,2,Adult
+70,Lisa Parks,61,New Michaelport,French Southern Territories,2022-05-31,2022,5,31,2,Senior
+71,Robert Johnson DDS,27,New Megan,Chile,2023-11-04,2023,11,4,4,Young Adult
+72,Denise Miller,20,Myerston,Lithuania,2024-05-20,2024,5,20,2,Young Adult
+73,Jillian Smith,55,East Scott,Liechtenstein,2022-07-24,2022,7,24,3,Middle Age
+74,Ashley Savage,34,Raymondmouth,Burkina Faso,2025-07-25,2025,7,25,3,Young Adult
+75,Victoria Alvarez,65,West Joshuastad,Belarus,2024-08-16,2024,8,16,3,Senior
+76,Gerald Smith,18,Lake Anthonychester,Timor-Leste,2021-02-24,2021,2,24,1,Teen
+77,Robert Lamb,33,Jamesbury,Jordan,2022-11-16,2022,11,16,4,Young Adult
+78,Shane Floyd,44,West Taraburgh,Iraq,2021-04-15,2021,4,15,2,Adult
+79,Angela Cook,46,Castillomouth,Colombia,2025-04-27,2025,4,27,2,Middle Age
+80,Amy Wilson,32,West Christinaland,Ecuador,2023-02-28,2023,2,28,1,Young Adult
+81,Derrick Anthony,61,East Ashleyberg,Turkey,2021-01-20,2021,1,20,1,Senior
+82,Victoria Miller,18,Port Nicholas,Turks and Caicos Islands,2021-10-28,2021,10,28,4,Teen
+83,Timothy Dunn,67,North Christy,Niue,2021-05-21,2021,5,21,2,Senior
+84,Dr. Craig Wilson,55,Amyview,Latvia,2021-11-21,2021,11,21,4,Middle Age
+85,Anne Williams,66,Farleystad,Israel,2021-08-21,2021,8,21,3,Senior
+86,Mary Hoover,74,Samanthaborough,Poland,2024-04-08,2024,4,8,2,Senior
+87,Michelle Walker,21,South Alanborough,Fiji,2020-11-24,2020,11,24,4,Young Adult
+88,Kathryn Cooper,44,Karaville,Falkland Islands (Malvinas),2024-07-29,2024,7,29,3,Adult
+89,Desiree Hutchinson,48,New Benjaminhaven,Tuvalu,2023-02-08,2023,2,8,1,Middle Age
+90,Jennifer Villa,30,Port Rebecca,Micronesia,2025-03-17,2025,3,17,1,Young Adult
+91,Timothy Smith,50,Morganmouth,Niue,2021-03-01,2021,3,1,1,Middle Age
+92,David Morgan,23,Donaldchester,Ethiopia,2021-07-17,2021,7,17,3,Young Adult
+93,Vincent Patterson,74,Lake Sarahberg,Macao,2025-01-20,2025,1,20,1,Senior
+94,Sarah Perry,72,South John,Jamaica,2023-11-25,2023,11,25,4,Senior
+95,Michelle Young,19,Michaelhaven,Romania,2025-07-23,2025,7,23,3,Teen
+96,Carol Lee,20,Stuartville,Eritrea,2021-01-19,2021,1,19,1,Young Adult
+97,Jesus Powers,38,South Stevenstad,Christmas Island,2023-09-23,2023,9,23,3,Adult
+98,Ryan Martin,58,East Rubenfurt,Panama,2021-07-09,2021,7,9,3,Middle Age
+99,Christopher Jackson,70,North David,Israel,2021-12-27,2021,12,27,4,Senior
+100,Joshua Webb,41,Westmouth,Nepal,2021-11-10,2021,11,10,4,Adult
