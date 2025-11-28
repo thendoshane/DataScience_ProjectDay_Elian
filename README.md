@@ -2,9 +2,9 @@
 # Project Overview
 This repository serves as the submission for the Data Science Project Day. It contains data analysis pipelines and a web application designed to derive insights from customer, health, and product datasets. The project is modularized into specific analytical questions, with a central application interface for visualization.
 
-Student: Elian [Insert Surname]
+Student: Chidubem Elian Okonkwo 
 
-Supervisor: [Insert Supervisor Name]
+Supervisor: Siphuma Thendo (@thendoshane)
 
 # Repository Structure
 The project is organized into the following key components:
